@@ -1,4 +1,4 @@
-# 🌸 KouriChat - 在虚拟与现实交织处，给予永恒的温柔羁绊
+# 🌸 原项目2：KouriChat - 在虚拟与现实交织处，给予永恒的温柔羁绊
 
 #### 本仓库为​**开发分支**​，包含新的​**实验性特性**​。若非开发人员**请勿**直接使用此分支，​**否则您的问题可能无法得到答复**​。
 
@@ -12,9 +12,8 @@
 
 
 
-**最新整合包**：[夸克网盘下载](https://pan.quark.cn/s/c55dd13218ea)<br>
 **详细文档**：[项目官网](https://kourichat.com/docs/)<br>
-**角色广场已上线！**：[角色档案馆](https://avatars.kourichat.com/#/archive)
+**角色广场**：[角色档案馆](https://avatars.kourichat.com/#/archive)
 ----------------------------
 
 ## 🌟 效果示例
@@ -25,9 +24,8 @@
 
 ### 🚀 部署推荐
 
-- 通过[夸克网盘](https://pan.quark.cn/s/c55dd13218ea)下载项目，推荐转存，第一时间获得更新，我也会有收益
 - 最好有一台Windows Server服务器挂机，[雨云服务器五折券](https://www.rainyun.com/MzE0MTU=_)
-- [项目直属公益API（推荐）](https://api.kourichat.com/)（注册送20刀，签到送1-5刀）
+- [原项目直属公益API（推荐）](https://api.kourichat.com/)（注册送20刀，签到送1-5刀）
 - [获取DeepSeek API Key](https://cloud.siliconflow.cn/i/aQXU6eC5)（免费15元额度）
 
 ---
@@ -48,26 +46,6 @@
 
 ## 🛠️ 功能全景
 
-### ✅ 已实现
-
-- 微信无缝接入 & 多用户支持
-- 沉浸式角色扮演（支持群聊）
-- 智能对话分段 & 情感化表情包
-- 图像生成 & 图片识别（Kimi集成）
-- 语音消息 & 持久记忆存储
-- 自动更新 & 可视化WebUI
-
-### 🚧 开发中
-
-- 智能定时任务系统
-- 记忆整理优化（8B小模型）
-- 分布式负载均衡
-- 数学公式渲染引擎
-- OneBot协议兼容
-- [参与开发计划](https://jq.qq.com/?_wv=1027&k=5z4Q0i7o)
-
----
-
 ## 🚀 快速启动
 
 ### 环境准备
@@ -76,7 +54,7 @@
 2. **微信小号**：能登录PC版即可
 3. **API密钥**：
 
-- [项目直属公益API（推荐）](https://api.kourichat.com/)（注册送20刀，签到送1-5刀）
+- [原项目直属公益API（推荐）](https://api.kourichat.com/)（注册送20刀，签到送1-5刀）
 - [获取DeepSeek API Key](https://cloud.siliconflow.cn/i/aQXU6eC5)（免费15元额度）
 
 ### 部署流程
@@ -124,7 +102,7 @@ KouriChat/
 
 ---
 
-## 💖 支持我们
+## 💖 支持原项目作者
 
 <div align="center">
   <!-- 项目星标 -->
@@ -169,9 +147,9 @@ KouriChat/
 
 ---
 
-## 🌐 社区互动
+## 🌐 原项目社区互动
 
-### 核心交流群
+### 原项目核心交流群
 
 [![主群](https://img.shields.io/badge/✨_主群-715616260-4FC3F7?style=for-the-badge&logo=tencentqq&logoColor=white&labelColor=006699)](https://jq.qq.com/?_wv=1027&k=5z4Q0i7o)
 [![二群](https://img.shields.io/badge/🎮_二群-1031640399-76D7C4?style=for-the-badge&logo=tencentqq&logoColor=white&labelColor=00897B)](https://jq.qq.com/?_wv=1027&k=5z4Q0i7o)
@@ -179,7 +157,7 @@ KouriChat/
 [![赞助群](https://img.shields.io/badge/💰_赞助群-953908612-FFEA00?style=for-the-badge&logo=tencentqq&logoColor=333&labelColor=FFD600)](https://jq.qq.com/?_wv=1027&k=5z4Q0i7o)
 [![QQ频道](https://img.shields.io/badge/📢_QQ频道-和Ai恋爱吧-B2EBF2?style=for-the-badge&logo=tencentqq&logoColor=white&labelColor=00B8D4)](https://pd.qq.com/s/4zthl285m)
 
-### 通过其他方式联系我们
+### 通过其他方式联系原项目作者们
 
 - **开发讨论**：[功能建议 & Bug反馈](https://jq.qq.com/?_wv=1027&k=5z4Q0i7o)
 - **视频教程**：[哔哩哔哩频道](https://space.bilibili.com/209397245)
@@ -200,5 +178,4 @@ KouriChat/
 
 </div>
 
-[![Star History](https://api.star-history.com/svg?repos=KouriChat/KouriChat&type=Timeline)](https://star-history.com/#KouriChat/KouriChat)
 
